@@ -1,0 +1,11 @@
+{
+  "name": "DevCanvas - Professional Portfolio",
+  "description": "A high-end MERN stack developer portfolio featuring minimalist design, glassmorphism, and advanced GSAP animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "GSAP Animations",
+    "ScrollTrigger",
+    "Responsive Design",
+    "Premium UI"
+  ]
+}
